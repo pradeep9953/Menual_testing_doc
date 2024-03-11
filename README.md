@@ -7,4 +7,4 @@ Strong Knowledge And Understanding Of Stlc And Concepts Good In Sql And Rdbms Co
  Have Database Knowledge Such Sql Query Executing.
 i Have Some Programming Languages Knowledger Like Htlml Css Javascript With React Library And Mysql i Also Have Knowledge Php Server Side Knowledge.
 
-## HERE IS I SHARE A DOC ABOUT HE MANUAL TESTING WITH MY EXEPERICE SO READ IT PROPERLY AND GAIN YOUR KNOWLEDGE ##
+## HERE IS I SHARE  DOC ABOUT THE MANUAL TESTING WITH MY EXEPERICE SO READ IT PROPERLY AND GAIN YOUR KNOWLEDGE ##
